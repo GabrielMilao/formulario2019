@@ -20,6 +20,9 @@ section {
 	display: flex;
  	flex-direction: row;
 }
+label {
+	width: 25%;
+}
 h1 {
 
 	font-size: 32px;
